@@ -14,7 +14,7 @@ import os
 print('It is working!')
 #Создание объекта и авторизация
 f=FlightData()
-f.login('login,'password')
+f.login('login','password')
 
 
 #Получение сегодняшней даты
